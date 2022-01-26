@@ -4,23 +4,19 @@
 
 3Dme Studio runs on computers with the minimum specification or higher, and requires a network connection.​
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
-<details>
-
-<summary>Notice</summary>
+{% hint style="danger" %}
+Notice
 
 We encourage the use of computers with recommended specifications for the AI features that we offer. AI capabilities are limited under specific conditions (RAM less than 8GM or less; WebGL is unavailable).​
+{% endhint %}
 
-</details>
-
-<details>
-
-<summary>Quick Guide</summary>
+{% hint style="info" %}
+Quick Guide
 
 You can verify the computer system information by going to Windows > Setting > System > Information.
-
-</details>
+{% endhint %}
 
 
 
