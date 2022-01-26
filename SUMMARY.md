@@ -1,10 +1,10 @@
 # Table of contents
 
-## Welcome to 3Dme Studio
+## Welcome
 
-* [Welcome](README.md)
-  * [Introduction](welcome-to-3dme-studio/welcome/introduction.md)
-  * [System Requirements](welcome-to-3dme-studio/welcome/system-requirements.md)
+* [3Dme Studio](README.md)
+  * [Introduction](welcome/3dme-studio/introduction.md)
+  * [System Requirements](welcome/3dme-studio/system-requirements.md)
 
 ## Quick Start
 
